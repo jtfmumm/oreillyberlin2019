@@ -5,7 +5,7 @@ Talk pages from O'Reilly Software Architecture Berlin 2019 for "CRDT Primer" and
 2. [CRDT Primer](##CRDT-Primer-Defanging-Order-Theory)
 
 
-## Think Local: Reducing Coordination when Designing Distributed Systems
+## Think Local Reducing Coordination when Designing Distributed Systems
 
 OReilly Berlin 2019 Talk Page: ...
 
@@ -29,7 +29,7 @@ John Mumm - [Safely Sharing Data: Reference Capabilities in Pony](http://jtfmumm
 [Pony Programming Language](http://www.ponylang.org)
 
 
-## CRDT Primer: Defanging Order Theory
+## CRDT Primer Defanging Order Theory
 
 OReilly Berlin 2019 Talk Page: ...
 
