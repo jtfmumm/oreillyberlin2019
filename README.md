@@ -7,7 +7,7 @@ Talk pages from O'Reilly Software Architecture Berlin 2019
 
 ## Think Local: Reducing Coordination and Improving Performance in Your Distributed Systems
 
-OReilly Berlin 2019 Talk Page: ...
+OReilly Berlin 2019 Talk Page: https://conferences.oreilly.com/software-architecture/sa-eu/public/schedule/detail/79168
 
 Video: ...
 
@@ -31,7 +31,7 @@ John Mumm - [Safely Sharing Data: Reference Capabilities in Pony](http://jtfmumm
 
 ## A CRDT Primer: Why CRDTs are Perfect for Eventual Consistency
 
-OReilly Berlin 2019 Talk Page: ...
+OReilly Berlin 2019 Talk Page: https://conferences.oreilly.com/software-architecture/sa-eu/public/schedule/detail/79169
 
 Video: ...
 
