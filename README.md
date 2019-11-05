@@ -1,11 +1,11 @@
 # oreillyberlin2019
-Talk pages from O'Reilly Software Architecture Berlin 2019 for "CRDT Primer" and "Think Local"
+Talk pages from O'Reilly Software Architecture Berlin 2019 for "A CRDT Primer" and "Think Local"
 
-1. [Think Local](##Think-Local-Reducing-Coordination-when-Designing-Distributed-Systems)  
-2. [CRDT Primer](##CRDT-Primer-Defanging-Order-Theory)
+1. [Think Local](#Think-Local-Reducing-coordination-and-improving-performance-in-your-distributed-systems)  
+2. [A CRDT Primer](#A-CRDT-Primer-Why-CRDTs-are-perfect-for-eventual-consistency)
 
 
-## Think Local Reducing Coordination when Designing Distributed Systems
+## Think Local Reducing Coordination and Improving Performance in Your Distributed Systems
 
 OReilly Berlin 2019 Talk Page: ...
 
@@ -29,7 +29,7 @@ John Mumm - [Safely Sharing Data: Reference Capabilities in Pony](http://jtfmumm
 [Pony Programming Language](http://www.ponylang.org)
 
 
-## CRDT Primer Defanging Order Theory
+## A CRDT Primer Why CRDTs are Perfect for Eventual Consistency
 
 OReilly Berlin 2019 Talk Page: ...
 
