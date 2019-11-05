@@ -1,8 +1,8 @@
 # oreillyberlin2019
 Talk pages from O'Reilly Software Architecture Berlin 2019 for "CRDT Primer" and "Think Local"
 
-1. [Think Local](##Think-Local:-Reducing-Coordination-when-Designing-Distributed-Systems)  
-2. [CRDT Primer](##CRDT-Primer:-Defanging-Order-Theory)
+1. [Think Local](##Think-Local-Reducing-Coordination-when-Designing-Distributed-Systems)  
+2. [CRDT Primer](##CRDT-Primer-Defanging-Order-Theory)
 
 
 ## Think Local: Reducing Coordination when Designing Distributed Systems
