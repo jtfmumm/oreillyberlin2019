@@ -5,7 +5,7 @@ Talk pages from O'Reilly Software Architecture Berlin 2019 for "A CRDT Primer" a
 2. [A CRDT Primer](#A-CRDT-Primer-Why-CRDTs-are-perfect-for-eventual-consistency)
 
 
-## Think Local Reducing Coordination and Improving Performance in Your Distributed Systems
+## Think Local: Reducing Coordination and Improving Performance in Your Distributed Systems
 
 OReilly Berlin 2019 Talk Page: ...
 
@@ -29,7 +29,7 @@ John Mumm - [Safely Sharing Data: Reference Capabilities in Pony](http://jtfmumm
 [Pony Programming Language](http://www.ponylang.org)
 
 
-## A CRDT Primer Why CRDTs are Perfect for Eventual Consistency
+## A CRDT Primer: Why CRDTs are Perfect for Eventual Consistency
 
 OReilly Berlin 2019 Talk Page: ...
 
