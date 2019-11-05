@@ -1,5 +1,5 @@
 # oreillyberlin2019
-Talk pages from O'Reilly Software Architecture Berlin 2019 for "A CRDT Primer" and "Think Local"
+Talk pages from O'Reilly Software Architecture Berlin 2019
 
 1. [Think Local](#Think-Local-Reducing-coordination-and-improving-performance-in-your-distributed-systems)  
 2. [A CRDT Primer](#A-CRDT-Primer-Why-CRDTs-are-perfect-for-eventual-consistency)
