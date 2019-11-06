@@ -28,7 +28,7 @@ John Mumm - [Safely Sharing Data: Reference Capabilities in Pony](http://jtfmumm
 [Wallaroo](http://github.com/wallaroolabs/wallaroo)  
 [Pony Programming Language](http://www.ponylang.org)
 
-Related to some Q+A points, here is a link to my blog post of Wallaroo checkpointing and consistent recovery lines: https://blog.wallaroolabs.com/2018/10/checkpointing-and-consistent-recovery-lines-how-we-handle-failure-in-wallaroo/
+Related to some Q+A points, here is a link to my blog post on Wallaroo checkpointing and consistent recovery lines: https://blog.wallaroolabs.com/2018/10/checkpointing-and-consistent-recovery-lines-how-we-handle-failure-in-wallaroo/
 
 
 ## A CRDT Primer: Why CRDTs are Perfect for Eventual Consistency
